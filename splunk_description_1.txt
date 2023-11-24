@@ -7,3 +7,5 @@ You will explore various techniques for data analysis, such as data cleaning, tr
 By the end of this course, you will have the skills to perform data analysis and visualization tasks using Splunk and Power Dashboard, empowering you to make informed decisions based on data-driven insights.
 
 Please note that this is a general description, and the actual course content may vary.
+
+The "Splunk Advanced Dashboard and Visualization in Example Power Dashboard" meeting is a session focused on exploring advanced techniques for creating dashboards and visualizations using Splunk. Participants will have the opportunity to learn about the various features and functionalities available in Splunk for building powerful and informative dashboards. The meeting will provide examples and demonstrations of how to leverage these capabilities to create impactful visualizations that effectively convey data insights. Attendees can expect to gain practical knowledge and skills that they can apply in their own Splunk projects to enhance data analysis and presentation.
