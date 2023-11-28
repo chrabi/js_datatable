@@ -1,4 +1,5 @@
-%kcd$P3n_@!9Z%&Gq#mlitqK0mU23roHEy4%y2uj^@_LyF!ui98sfup@m!s1^Awj
+
+4u%ly1#!6Ig#ex!u&teK%iVab6$c4Q4pwWoewhoR^1%#d&M8j$4oJ^sGsH&a^q7f
 
 "Introduce to data analysis and visualization in Splunk and Power Dashboard" is a course that aims to provide a comprehensive understanding of data analysis and visualization using two powerful tools: Splunk and Power Dashboard.
 
